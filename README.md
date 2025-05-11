@@ -7,10 +7,10 @@ The Oblivion Name Generator is a fun and creative tool designed to generate uniq
 - Thematic Accuracy: Names are crafted to align with the lore and aesthetic of Oblivion.
 - Instant Results: Generate names with a single click, no sign-up required.
 ## How to Use
-1 Visit [oblivionnamegenerator.online].(https://oblivionnamegenerator.online/)
-2 Select your race.
-3 Click the "Generate" button to create a unique name.
-4 Copy the generated name for your project or game!
+- Visit (https://oblivionnamegenerator.online/)
+-  Select your race.
+-  Click the "Generate" button to create a unique name.
+-  opy the generated name for your project or game!
 
 
 ## Contributing
